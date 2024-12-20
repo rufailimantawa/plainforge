@@ -1,0 +1,16 @@
+{
+  "name": "plainforge",
+  "version": "1.0.0",
+  "description": "Plainforge a vanilla own CSS framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rufai Limantawa",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https//github.com/rufailimantawa/plainforge"
+  }
+}
